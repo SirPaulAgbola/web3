@@ -27,3 +27,18 @@ span {
 div > p {
   background-color: chartreuse;
 }
+body {
+  /* background-image: url(https://images.unsplash.com/photo-1604251036494-6568bd88db5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: linear-gradient(#5c9ead, #ffffff, #326273);
+  /* background-image: url(./image/reinhart-julian-WxM465oM4j4-unsplash.jpg); */
+  background-image: url(./image/andrew-mantarro-M9MwL-5CC_A-unsplash.jpg),
+    url(./image/lilly-rum-L6W9ZIQ5saM-unsplash.jpg),
+    url(./image/reinhart-julian-WxM465oM4j4-unsplash.jpg);
+  background-position: bottom, top, left;
+  background-repeat: no-repeat, repeat, no-repeat;
+  background-position: center;
+  background-size: cover;
+}
