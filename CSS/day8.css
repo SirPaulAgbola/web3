@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  .border1 {
+    border-style: dashed;
+    border-width: 60px;
+  }
+}
+.border2 {
+  border-style: dotted;
+  border-width: thick;
+}
+.border3 {
+  border-style: double;
+  border-width: medium;
+}
+.border4 {
+  border-style: groove;
+  border-width: ;
+}
+.border5 {
+  border-style: dotted;
+  border-bottom-color: mediumblue;
+  border-top-color: mediumvioletred;
+  border-left-color: olive;
+  border-right-color: orchid;
+}
+.border6 {
+  border-style: solid;
+  border-radius: 50%;
+  border-width: 70%;
+}
+div {
+  margin: 20px 10px 5px 2px;
+  border: 1px solid rgb(221, 16, 221);
+  padding-bottom: 10px;
+  padding-right: 40;
+  padding-left: 30px;
+  padding-bottom: 5%;
+}
