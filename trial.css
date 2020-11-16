@@ -1,0 +1,29 @@
+.box {
+  display: flex;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 100px;
+  margin: auto;
+}
+img {
+  height: 600px;
+  width: 600px;
+
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  height: 600px;
+  width: 600px;
+}
+.image {
+  height: 620px;
+  border: 1px solid #4caf50;
+  padding: 5px 5px 5px 5px;
+  margin-block: 1px;
+}
